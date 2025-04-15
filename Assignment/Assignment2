@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>wb development</title>
+</head>
+<body>
+    <h1>
+        GreenEarth
+    </h1>
+    <p>
+        Promoting environmental awareness and sustainability for a better future.
+    </p>
+<hr>
+<h2>
+    Why Go Green?
+</h2>
+<p>
+    Every small step towards protecting the environment counts. From reducing plastic to planting trees, we all have a role to play.</p>
+    <p>Let's work together to create a cleaner and greener planet.</p>
+<hr>
+
+<h2>
+    Simple Eco-Friendly Tips
+</h2>
+<p>
+<ul>
+    <li>
+        Reduce, Reuse, Recycle
+        <li>
+        Use public transportation or cycle
+    </li>
+        <li>
+Say no to single-use plastic
+</li>
+        <li>Plant a tree in your community</li>
+        <li>Benefits of Going Green
+    </li>  
+</ul>
+</p>
+<hr>
+<h2>
+    Benefit og Going Green
+</h2>
+<table border="3">
+    <th>Action</th>
+    <th>Impact</th>
+    <tr>
+        <td>Using Reusable Bags</td>
+        <td>Reduces plastic waste</td>
+    </tr>
+    <tr>
+        <td>
+            Using Public Transport</td>
+            <td>
+                Less carbon emissions
+            </td>
+    </tr>
+</table><hr>
+<img src="assignment image.jpg" height="100px" width="200px">
+<video src="assignmentvideo.mp4" height="100px" width="200px" autoplay muted loop></video>
+<hr>
+<h2> GreenEarth © 2025</h2>
+    <p>
+        Connect with us to make the world greener!
+        Email:support@greenearth.org
+    </p>
+    <hr>
+                    Join the movement! Every step towards green counts!
+                    <hr>
+                    <h2>
+                        Learn More
+                    </h2>
+                    <p>
+                        Read more at HTML Basics
+Explore greener living: EarthDay.org
+                    </p>
+
+</body>
+</html>

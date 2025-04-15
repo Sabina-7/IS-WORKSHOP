@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <a href="https://www.facebook.com/profile.php?id=100093993139043">My Facebook Link</a>
+    <img src="a.png" alt="image" height="100px"width="200px">
+    <video src="kuchvi.mp4" height="100px" width="200px" autoplay muted loop></video>
+    
+    <iframe width="200px" height="100px" src="https://www.youtube.com/embed/kJTgA-aBwZA?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="200px" height="100px" src="https://www.youtube.com/embed/9EqZ9mG0CqY?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <audio src="Recording.m4a" autoplay controls muted></audio>
+    <!-- (comments ko lagi click ctrl and forward slash)block elements<div>it is the time for study -->
+        
+        lets start it
+    </div>
+    <div>i am sabina shrestha</div>
+    <p>it is the time for study 
+        lets start it</p>
+        <!-- inline element<em>it is the time for study  -->
+            
+            lets start it</em>
+        <em>it is the time for study lets start it</em>
+        <span>i am sabina shrestha</span>
+        <marquee behavior="alternate" direction="right">la la la la.....................</marquee>
+
+    
+</body>
+</html>
