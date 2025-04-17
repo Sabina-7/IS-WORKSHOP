@@ -34,13 +34,12 @@
 Say no to single-use plastic
 </li>
         <li>Plant a tree in your community</li>
-        <li>Benefits of Going Green
-    </li>  
+          
 </ul>
 </p>
 <hr>
 <h2>
-    Benefit og Going Green
+    Benefits of Going Green
 </h2>
 <table border="3">
     <th>Action</th>
@@ -57,24 +56,32 @@ Say no to single-use plastic
             </td>
     </tr>
 </table><hr>
-<img src="assignment image.jpg" height="100px" width="200px">
+<h2>
+    Watch:Why Trees Matter
+</h2>
 <video src="assignmentvideo.mp4" height="100px" width="200px" autoplay muted loop></video>
+<hr>
+<h2>Our Planet</h2>
+<img src="assignment image.jpg" height="100px" width="200px">
 <hr>
 <h2> GreenEarth © 2025</h2>
     <p>
-        Connect with us to make the world greener!
-        Email:support@greenearth.org
-    </p>
+        Connect with us to make the world greener!<br>Email: support@greenearth.org</p>
+    
     <hr>
-                    Join the movement! Every step towards green counts!
-                    <hr>
+                   <marquee behavior="alternate" direction="right">Join the movement! Every step towards green counts!" 
+                    </marquee><hr>
                     <h2>
                         Learn More
                     </h2>
-                    <p>
-                        Read more at HTML Basics
-Explore greener living: EarthDay.org
-                    </p>
+                    <span>
+                        Read more at: </span>
+                   <span><a href="https://www.geeksforgeeks.org/html-introduction">HTML Basics</a></span>
+                   <span><br>
+                    Explore green living:</span>
+           <span><a href="https://www.earthday.org/&quot">EarthDay.org</a></span>
+
+                  
 
 </body>
 </html>

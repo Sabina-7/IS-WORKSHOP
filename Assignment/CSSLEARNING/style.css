@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#rupa
+{
+    background-color:blueviolet;
+    color: red;
+    
+}
+#sabina{
+    background-color:blueviolet;
+    color: red;
+   
+}
+
+.red{
+
+    display: inline-block;
+    background-color: red;
+
+}
+
+.blue{
+
+    display: inline-block;
+    background-color: grey;
+}
+lala{
+    background-color: black;
+    color: green;
+}
+blahblah
+{
+    background-color: white;
+    color: blue;
+}
